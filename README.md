@@ -1,103 +1,103 @@
 # top stared packages first 5000
-|rank|              package               |stars|                                            url                                             |
-|---:|------------------------------------|----:|--------------------------------------------------------------------------------------------|
-|   0|                                   0|   -1|                                                                                            |
-|   1|0-._.-._.-._.-._.-._.-._.-0         |   -1|                                                                                            |
-|   2|00000a                              |   -1|                                                                                            |
-|   3|0.0.1                               |   -1|https://github.com/scotthuang1989/image2tfrecords                                           |
-|   4|00print_lol                         |   -1|                                                                                            |
-|   5|00SMALINUX                          |   -1|                                                                                            |
-|   6|0121                                |   -1|                                                                                            |
-|   7|01changer                           |   -1|                                                                                            |
-|   8|01d61084-d29e-11e9-96d1-7c5cf84ffe8e|   -1|                                                                                            |
-|   9|01-distributions                    |   -1|                                                                                            |
-|  10|021                                 |   -1|                                                                                            |
-|  11|024travis-test024                   |   -1|                                                                                            |
-|  12|02exercicio                         |   -1|                                                                                            |
-|  13|0805nexter                          |   -1|                                                                                            |
-|  14|090807040506030201testpip           |   -1|                                                                                            |
-|  15|0-core-client                       |   -1|https://github.com/zero-os/0-core                                                           |
-|  16|0html                               |   -1|https://github.com/0oio/0html                                                               |
-|  17|0imap                               |   -1|https://github.com/0oio/0imap                                                               |
-|  18|0lever-so                           |   -1|https://github.com/0lever/so                                                                |
-|  19|0lever-utils                        |   -1|https://github.com/0lever/utils                                                             |
-|  20|0-orchestrator                      |   -1|https://github.com/g8os/grid                                                                |
-|  21|0proto                              |   -1|https://github.com/example/0proto                                                           |
-|  22|0rest                               |   -1|https://github.com/0oio/0rest                                                               |
-|  23|0rss                                |   -1|https://github.com/mindey/0rss                                                              |
-|  24|0wdg9nbmpm                          |   -1|                                                                                            |
-|  25|0x                                  |   -1|                                                                                            |
-|  26|0x01-autocert-dns-aliyun            |   -1|https://github.com/Smart-Hypercube/autocert                                                 |
-|  27|0x01-cubic-sdk                      |   -1|https://github.com/Smart-Hypercube/cubic-sdk                                                |
-|  28|0x01-letsencrypt                    |   -1|https://github.com/Smart-Hypercube/autocert                                                 |
-|  29|0x10c-asm                           |   -1|https://github.com/severb/0x10c-asm                                                         |
-|  30|0x-contract-addresses               |   -1|https://github.com/0xproject/0x-monorepo/tree/development/python-packages/contract_addresses|
-|  31|0x-contract-artifacts               |   -1|https://github.com/0xproject/0x-monorepo/tree/development/python-packages/contract_artifacts|
-|  32|0x-contract-wrappers                |   -1|https://github.com/0xproject/0x-monorepo/tree/development/python-packages/contract_wrappers |
-|  33|0xdork                              |   -1|https://github.com/rlyonheart/0xdork                                                        |
-|  34|0x-json-schemas                     |   -1|https://github.com/0xProject/0x-monorepo/tree/development/python-packages/json_schemas      |
-|  35|0x-middlewares                      |   -1|https://github.com/0xproject/0x-monorepo/tree/development/python-packages/middlewares       |
-|  36|0xmpp                               |   -1|https://github.com/0oio/0xmpp                                                               |
-|  37|0x-order-utils                      |   -1|https://github.com/0xProject/0x-monorepo/tree/development/python-packages/order_utils       |
-|  38|0x-python                           |   -1|https://github.com/skeetzo/0x-python                                                        |
-|  39|0x-sra-client                       |   -1|https://github.com/0xproject/0x-monorepo/tree/development/python-packages/sra_client        |
-|  40|0x-web3                             |   -1|https://github.com/ethereum/web3.py                                                         |
-|  41|1                                   |   -1|                                                                                            |
-|  42|100bot                              |   -1|https://github.com/PeppyHare/100bot                                                         |
-|  43|101703048-topsis                    |   -1|https://github.com/AkritiSehgal/101703048_topsis                                            |
-|  44|101703072-handle-missing            |   -1|https://github.com/anish175/101703072_handle_missing                                        |
-|  45|101703087-missing-values            |   -1|https://github.com/anukritigarg13/missing_values/tree/1.0.0                                 |
-|  46|101703087-outlier                   |   -1|https://github.com/anukritigarg13/101703087_outliers/tree/v_1.0.0/101703087_outliers        |
-|  47|101703087-topsis                    |   -1|https://github.com/user/101703087-topsis                                                    |
-|  48|101703088-outlier                   |   -1|https://github.com/Anurag-Aggarwal/Outliers                                                 |
-|  49|101703088-topsis                    |   -1|https://github.com/user/101703088-topsis                                                    |
-|  50|101703105                           |   -1|https://github.com/arushi0830?tab=repositories                                              |
-|  51|101703196-topsis                    |   -1|https://github.com/guneesha12/101703196_topsis/tree/v_1.0.0                                 |
-|  52|101703214-assign1-UCS633            |   -1|https://github.com/harmeet511/101703214_assign1_UCS633                                      |
-|  53|101703235-missing-val               |   -1|https://github.com/pypa/missing_values                                                      |
-|  54|101703272-missing-val               |   -1|https://github.com/pypa/missing_valuess                                                     |
-|  55|101703301-Project1-TOPSIS           |   -1|https://github.com/                                                                         |
-|  56|101703301-Project2                  |   -1|                                                                                            |
-|  57|101703301-project3                  |   -1|                                                                                            |
-|  58|101703311-Missing-Data              |   -1|                                                                                            |
-|  59|101703311-OUTLIERS                  |   -1|                                                                                            |
-|  60|101703312-outlierRemoval            |   -1|                                                                                            |
-|  61|101703322-missing-val               |   -1|https://github.com/pypa/missing_valuess                                                     |
-|  62|101703373-outlier                   |   -1|https://github.com/vyasnikhil/Outliers-10173373                                             |
-|  63|101703373-topsis                    |   -1|                                                                                            |
-|  64|101703375-p2                        |   -1|https://github.com/NishantDhanda/101703375_p2/                                              |
-|  65|101703378-project2                  |   -1|                                                                                            |
-|  66|101703381-outlier                   |   -1|https://github.com/palkibansal31/Z_Score                                                    |
-|  67|101703383-python-package2           |   -1|https://github.com/pypa/sampleproject                                                       |
-|  68|101703476-samiksha                  |   -1|https://github.com/samii9914/TOPSIS                                                         |
-|  69|101703488-sargun                    |   -1|                                                                                            |
-|  70|101703549-missing-val               |   -1|https://github.com/pypa/missing_values                                                      |
-|  71|101703573-Missing-pkg-suruchipundir |   -1|https://github.com/suruchipundir/missing-data                                               |
-|  72|101703573-Outlier-pkg-suruchipundir |   -1|https://github.com/suruchipundir/outlier_detection                                          |
-|  73|101703573-Topsis-pkg-suruchipundir  |   -1|https://github.com/pypa/sampleproject                                                       |
-|  74|101703604-topsis                    |   -1|https://github.com/vchowdhary21                                                             |
-|  75|101hello-0.0.1-redish101            |   -1|https://github.com/pypa/sampleproject                                                       |
-|  76|1020-nester                         |   -1|                                                                                            |
-|  77|1024                                |   -1|                                                                                            |
-|  78|108Moshpdf                          |   -1|                                                                                            |
-|  79|10-8moshpdf                         |   -1|                                                                                            |
-|  80|10daysweb                           |   -1|https://github.com/bace1996/10daysWeb                                                       |
-|  81|10dulkar17-s3-aws                   |   -1|https://github.com/10dulkar17/10dulkar17-utils                                              |
-|  82|115wangpan                          |   -1|https://github.com/shichao-an/115wangpan                                                    |
-|  83|11601160                            |   -1|https://github.com/pypa/sampleproject                                                       |
-|  84|11dl-gpu                            |   -1|                                                                                            |
-|  85|11l                                 |   -1|                                                                                            |
-|  86|12306-booking                       |   -1|https://github.com/hack12306/12306-booking                                                  |
-|  87|123hibob789                         |   -1|                                                                                            |
-|  88|123-object-detection                |   -1|                                                                                            |
-|  89|123TestUpload                       |   -1|                                                                                            |
-|  90|125softNLP                          |   -1|https://github.com/pypa/sampleproject                                                       |
-|  91|12factor-configclasses              |   -1|https://github.com/kingoodie/configclasses                                                  |
-|  92|12factor-vault                      |   -1|https://github.com/jdelic/12factor-vault/                                                   |
-|  93|12ou2x                              |   -1|                                                                                            |
-|  94|12-test                             |   -1|                                                                                            |
-|  95|131228_pytest_1                     |   -1|                                                                                            |
-|  96|1337                                |   -1|                                                                                            |
-|  97|1337x                               |   -1|https://github.com/hemantapkh/1337x                                                         |
-|  98|153957-theme                        |   -1|https://github.com/153957/153957-theme/                                                     |
-|  99|15five-django-ajax-selects          |   -1|https://github.com/crucialfelix/django-ajax-selects/                                        |
+|rank|                                                   package                                                    |stars|
+|---:|--------------------------------------------------------------------------------------------------------------|----:|
+|   0|[aioloop-proxy](https://github.com/aio-libs/aiohttp)                                                          |12017|
+|   1|[aiogram](https://github.com/aiogram/aiogram)                                                                 | 2227|
+|   2|[afdko](https://github.com/adobe-type-tools/afdko)                                                            |  730|
+|   3|[aesara](https://github.com/aesara-devs/aesara)                                                               |  430|
+|   4|[aesara-nightly](https://github.com/aesara-devs/aesara)                                                       |  430|
+|   5|[aiomisc](https://github.com/aiokitchen/aiomisc)                                                              |  244|
+|   6|[aiohttp-devtools](https://github.com/aio-libs/aiohttp-devtools)                                              |  219|
+|   7|[aiohttp-session](https://github.com/aio-libs/aiohttp_session/)                                               |  195|
+|   8|[aioftp](https://github.com/aio-libs/aioftp)                                                                  |  130|
+|   9|[aiogoogle](https://github.com/omarryhan/aiogoogle)                                                           |  100|
+|  10|[accelerometer](https://github.com/activityMonitoring/biobankAccelerometerAnalysis)                           |   89|
+|  11|[adafruit-circuitpython-rgb-display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display)          |   70|
+|  12|[adafruit-circuitpython-esp32spi](https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI)                |   59|
+|  13|[adafruit-circuitpython-bme280](https://github.com/adafruit/Adafruit_CircuitPython_BME280)                    |   51|
+|  14|[affinegap](https://github.com/datamade/affinegap)                                                            |   51|
+|  15|[adafruit-circuitpython-bme680](https://github.com/adafruit/Adafruit_CircuitPython_BME680)                    |   36|
+|  16|[adafruit-circuitpython-motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor)                      |   31|
+|  17|[aiohue](https://github.com/home-assistant-libs/aiohue)                                                       |   31|
+|  18|[adafruit-circuitpython-ht16k33](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33)                  |   30|
+|  19|[adafruit-circuitpython-minimqtt](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT)                |   30|
+|  20|[adafruit-circuitpython-mcp230xx](https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx)                |   29|
+|  21|[adafruit-circuitpython-register](https://github.com/adafruit/Adafruit_CircuitPython_Register)                |   29|
+|  22|[adafruit-circuitpython-bmp280](https://github.com/adafruit/Adafruit_CircuitPython_BMP280)                    |   28|
+|  23|[adafruit-circuitpython-fancyled](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED)                |   24|
+|  24|[adafruit-circuitpython-fingerprint](https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint)          |   24|
+|  25|[adafruit-circuitpython-requests](https://github.com/adafruit/Adafruit_CircuitPython_Requests)                |   23|
+|  26|[adafruit-circuitpython-seesaw](https://github.com/adafruit/Adafruit_CircuitPython_seesaw)                    |   23|
+|  27|[aeppl](http://github.com/aesara-devs/aeppl)                                                                  |   23|
+|  28|[adafruit-circuitpython-adxl34x](https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x)                  |   22|
+|  29|[adafruit-circuitpython-lsm9ds1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1)                  |   18|
+|  30|[adafruit-circuitpython-pioasm](https://github.com/adafruit/Adafruit_CircuitPython_PIOASM)                    |   14|
+|  31|[adafruit-circuitpython-wsgi](https://github.com/adafruit/Adafruit_CircuitPython_WSGI)                        |   11|
+|  32|[adbnx-adapter](https://github.com/arangoml/networkx-adapter)                                                 |   11|
+|  33|[adafruit-circuitpython-ble-broadcastnet](https://github.com/adafruit/Adafruit_CircuitPython_BLE_BroadcastNet)|   10|
+|  34|[adafruit-circuitpython-bluefruitconnect](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect)|    8|
+|  35|[adafruit-circuitpython-si7021](https://github.com/adafruit/Adafruit_CircuitPython_SI7021)                    |    8|
+|  36|[aemcmc](http://github.com/aesara-devs/aemcmc)                                                                |    8|
+|  37|[abuse-whois](https://github.com/ninoseki/abuse_whois)                                                        |    6|
+|  38|[adafruit-circuitpython-hashlib](https://github.com/adafruit/Adafruit_CircuitPython_hashlib)                  |    6|
+|  39|[adafruit-circuitpython-touchscreen](https://github.com/adafruit/Adafruit_CircuitPython_Touchscreen)          |    6|
+|  40|[aeropress](https://github.com/muraty/aeropress)                                                              |    6|
+|  41|[adafruit-circuitpython-am2320](https://github.com/adafruit/Adafruit_CircuitPython_AM2320)                    |    5|
+|  42|[adafruit-circuitpython-as726x](https://github.com/adafruit/Adafruit_CircuitPython_AS726x)                    |    5|
+|  43|[adafruit-circuitpython-max31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855)                |    5|
+|  44|[adafruit-circuitpython-mpl3115a2](https://github.com/adafruit/Adafruit_CircuitPython_MPL3115A2)              |    5|
+|  45|[aggexif](https://github.com/ponkotuy/python-exif)                                                            |    5|
+|  46|[adafruit-circuitpython-ble-adafruit](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit)        |    4|
+|  47|[adafruit-circuitpython-bmp3xx](https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX)                    |    4|
+|  48|[adafruit-circuitpython-cursorcontrol](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl)      |    3|
+|  49|[adafruit-circuitpython-mlx90393](https://github.com/adafruit/Adafruit_CircuitPython_MLX90393)                |    3|
+|  50|[afs2-datasource](https://github.com/stacy0416/afs2-datasource)                                               |    3|
+|  51|[afs2-model](https://github.com/benchuang11046/afs2-model)                                                    |    3|
+|  52|[aa-forum](https://github.com/ppfeufer/aa-forum)                                                              |    2|
+|  53|[actipy](https://github.com/activityMonitoring/actipy)                                                        |    2|
+|  54|[adafruit-circuitpython-focaltouch](https://github.com/adafruit/Adafruit_CircuitPython_Focaltouch)            |    2|
+|  55|[adafruit-circuitpython-fxas21002c](https://github.com/adafruit/Adafruit_CircuitPython_FXAS21002C)            |    2|
+|  56|[adafruit-circuitpython-fxos8700](https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700)                |    2|
+|  57|[adafruit-circuitpython-l3gd20](https://github.com/adafruit/Adafruit_CircuitPython_L3GD20)                    |    2|
+|  58|[adafruit-circuitpython-lsm9ds0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0)                  |    2|
+|  59|[adafruit-circuitpython-ra8875](https://github.com/adafruit/Adafruit_CircuitPython_RA8875)                    |    2|
+|  60|[adorn](https://github.com/pyadorn/adorn)                                                                     |    2|
+|  61|[agave](https://github.com/cuenca-mx/agave)                                                                   |    2|
+|  62|[2ppy](https://github.com/tuProlog/2ppy)                                                                      |    1|
+|  63|[aas-core-codegen](https://github.com/aas-core-works/aas-core-codegen)                                        |    1|
+|  64|[abstract-http-client](https://github.com/QualiSystemsLab/abstract-http-client)                               |    1|
+|  65|[adafruit-circuitpython-HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D)                    |    1|
+|  66|[adafruit-circuitpython-si5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351)                    |    1|
+|  67|[Adax-local](https://github.com/Danielhiversen/pyAdaxLocal)                                                   |    1|
+|  68|[ads-evt](https://github.com/limjcst/ads-evt)                                                                 |    1|
+|  69|[aeroutils](https://github.com/MattCJones/aeroutils)                                                          |    1|
+|  70|[afasi](https://github.com/sthagen/afasi)                                                                     |    1|
+|  71|[aiohttp-openmetrics](https://github.com/jelmer/aiohttp-openmetrics/)                                         |    1|
+|  72|[aa-esi-status](https://github.com/ppfeufer/aa-esi-status/)                                                   |    0|
+|  73|[aa-fleetpings](https://github.com/ppfeufer/aa-fleetpings)                                                    |    0|
+|  74|[aarc-g002-entitlement](https://github.com/kit-scc/aarc-g002-entitlement)                                     |    0|
+|  75|[aa-srp](https://github.com/ppfeufer/aa-srp)                                                                  |    0|
+|  76|[acdh-handle-pyutils](https://github.com/acdh-oeaw/acdh-handle-pyutils)                                       |    0|
+|  77|[adaendra-immutable-dict](https://github.com/Adaendra/immutable_dict)                                         |    0|
+|  78|[adaendra-python-config-loader](https://github.com/Adaendra/python-config-loader)                             |    0|
+|  79|[adafruit-circuitpython-mma8451](https://github.com/adafruit/Adafruit_CircuitPython_MMA8451)                  |    0|
+|  80|[adbdgl-adapter](https://github.com/arangoml/dgl-adapter)                                                     |    0|
+|  81|[Adsorber](https://github.com/GardenGroupUO/Adsorber/archive/v1.10.tar.gz)                                    |    0|
+|  82|[advanced-sqlalchemy-manager](https://github.com/Flowelcat/advanced-sqlalchemy-manager)                       |    0|
+|  83|[afterrealism](https://github.com/afterrealism/afterrealism)                                                  |    0|
+|  84|[agal](https://github.com/gzttech/agal)                                                                       |    0|
+|  85|[agora-python-token-builder](https://github.com/AgoraIO-Community/python-token-builder)                       |    0|
+|  86|[agora-python-token-builder-test12](https://github.com/AgoraIO-Community/python-token-builder)                |    0|
+|  87|[agora-token-builder](https://github.com/AgoraIO-Community/python-token-builder)                              |    0|
+|  88|[ahbicht](https://github.com/Hochfrequenz/ahbicht)                                                            |    0|
+|  89|[ailever](https://3044d22ab9179f52ecb34567f62c8b9819f0333d@github.com/ailever/ailever)                        |    0|
+|  90|[aiocloudpayments](https://github.com/drforse/aiocloudpayments)                                               |    0|
+|  91|[aiogram-utils](https://github.com/LDmitriy7/aiogram_utils)                                                   |    0|
+|  92|[aiohttp-catcher](https://github.com/yuvalherziger/aiohttp-catcher)                                           |    0|
+|  93|[aiohwenergy](https://github.com/DCSBL/aiohwenergy)                                                           |    0|
+|  94|[0](None)                                                                                                     |   -1|
+|  95|[0-._.-._.-._.-._.-._.-._.-0](None)                                                                           |   -1|
+|  96|[00000a](None)                                                                                                |   -1|
+|  97|[0.0.1](https://github.com/scotthuang1989/image2tfrecords)                                                    |   -1|
+|  98|[00print_lol](None)                                                                                           |   -1|
+|  99|[00SMALINUX](None)                                                                                            |   -1|
