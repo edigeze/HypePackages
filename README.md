@@ -1,103 +1,103 @@
 # top stared packages first 5000
-|rank|                                                   package                                                    |stars|
-|---:|--------------------------------------------------------------------------------------------------------------|----:|
-|   0|[aioloop-proxy](https://github.com/aio-libs/aiohttp)                                                          |12017|
-|   1|[aiogram](https://github.com/aiogram/aiogram)                                                                 | 2227|
-|   2|[afdko](https://github.com/adobe-type-tools/afdko)                                                            |  730|
-|   3|[aesara](https://github.com/aesara-devs/aesara)                                                               |  430|
-|   4|[aesara-nightly](https://github.com/aesara-devs/aesara)                                                       |  430|
-|   5|[aiomisc](https://github.com/aiokitchen/aiomisc)                                                              |  244|
-|   6|[aiohttp-devtools](https://github.com/aio-libs/aiohttp-devtools)                                              |  219|
-|   7|[aiohttp-session](https://github.com/aio-libs/aiohttp_session/)                                               |  195|
-|   8|[aioftp](https://github.com/aio-libs/aioftp)                                                                  |  130|
-|   9|[aiogoogle](https://github.com/omarryhan/aiogoogle)                                                           |  100|
-|  10|[accelerometer](https://github.com/activityMonitoring/biobankAccelerometerAnalysis)                           |   89|
-|  11|[adafruit-circuitpython-rgb-display](https://github.com/adafruit/Adafruit_CircuitPython_RGB_Display)          |   70|
-|  12|[adafruit-circuitpython-esp32spi](https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI)                |   59|
-|  13|[adafruit-circuitpython-bme280](https://github.com/adafruit/Adafruit_CircuitPython_BME280)                    |   51|
-|  14|[affinegap](https://github.com/datamade/affinegap)                                                            |   51|
-|  15|[adafruit-circuitpython-bme680](https://github.com/adafruit/Adafruit_CircuitPython_BME680)                    |   36|
-|  16|[adafruit-circuitpython-motor](https://github.com/adafruit/Adafruit_CircuitPython_Motor)                      |   31|
-|  17|[aiohue](https://github.com/home-assistant-libs/aiohue)                                                       |   31|
-|  18|[adafruit-circuitpython-ht16k33](https://github.com/adafruit/Adafruit_CircuitPython_HT16K33)                  |   30|
-|  19|[adafruit-circuitpython-minimqtt](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT)                |   30|
-|  20|[adafruit-circuitpython-mcp230xx](https://github.com/adafruit/Adafruit_CircuitPython_MCP230xx)                |   29|
-|  21|[adafruit-circuitpython-register](https://github.com/adafruit/Adafruit_CircuitPython_Register)                |   29|
-|  22|[adafruit-circuitpython-bmp280](https://github.com/adafruit/Adafruit_CircuitPython_BMP280)                    |   28|
-|  23|[adafruit-circuitpython-fancyled](https://github.com/adafruit/Adafruit_CircuitPython_FancyLED)                |   24|
-|  24|[adafruit-circuitpython-fingerprint](https://github.com/adafruit/Adafruit_CircuitPython_Fingerprint)          |   24|
-|  25|[adafruit-circuitpython-requests](https://github.com/adafruit/Adafruit_CircuitPython_Requests)                |   23|
-|  26|[adafruit-circuitpython-seesaw](https://github.com/adafruit/Adafruit_CircuitPython_seesaw)                    |   23|
-|  27|[aeppl](http://github.com/aesara-devs/aeppl)                                                                  |   23|
-|  28|[adafruit-circuitpython-adxl34x](https://github.com/adafruit/Adafruit_CircuitPython_ADXL34x)                  |   22|
-|  29|[adafruit-circuitpython-lsm9ds1](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS1)                  |   18|
-|  30|[adafruit-circuitpython-pioasm](https://github.com/adafruit/Adafruit_CircuitPython_PIOASM)                    |   14|
-|  31|[adafruit-circuitpython-wsgi](https://github.com/adafruit/Adafruit_CircuitPython_WSGI)                        |   11|
-|  32|[adbnx-adapter](https://github.com/arangoml/networkx-adapter)                                                 |   11|
-|  33|[adafruit-circuitpython-ble-broadcastnet](https://github.com/adafruit/Adafruit_CircuitPython_BLE_BroadcastNet)|   10|
-|  34|[adafruit-circuitpython-bluefruitconnect](https://github.com/adafruit/Adafruit_CircuitPython_BluefruitConnect)|    8|
-|  35|[adafruit-circuitpython-si7021](https://github.com/adafruit/Adafruit_CircuitPython_SI7021)                    |    8|
-|  36|[aemcmc](http://github.com/aesara-devs/aemcmc)                                                                |    8|
-|  37|[abuse-whois](https://github.com/ninoseki/abuse_whois)                                                        |    6|
-|  38|[adafruit-circuitpython-hashlib](https://github.com/adafruit/Adafruit_CircuitPython_hashlib)                  |    6|
-|  39|[adafruit-circuitpython-touchscreen](https://github.com/adafruit/Adafruit_CircuitPython_Touchscreen)          |    6|
-|  40|[aeropress](https://github.com/muraty/aeropress)                                                              |    6|
-|  41|[adafruit-circuitpython-am2320](https://github.com/adafruit/Adafruit_CircuitPython_AM2320)                    |    5|
-|  42|[adafruit-circuitpython-as726x](https://github.com/adafruit/Adafruit_CircuitPython_AS726x)                    |    5|
-|  43|[adafruit-circuitpython-max31855](https://github.com/adafruit/Adafruit_CircuitPython_MAX31855)                |    5|
-|  44|[adafruit-circuitpython-mpl3115a2](https://github.com/adafruit/Adafruit_CircuitPython_MPL3115A2)              |    5|
-|  45|[aggexif](https://github.com/ponkotuy/python-exif)                                                            |    5|
-|  46|[adafruit-circuitpython-ble-adafruit](https://github.com/adafruit/Adafruit_CircuitPython_BLE_Adafruit)        |    4|
-|  47|[adafruit-circuitpython-bmp3xx](https://github.com/adafruit/Adafruit_CircuitPython_BMP3XX)                    |    4|
-|  48|[adafruit-circuitpython-cursorcontrol](https://github.com/adafruit/Adafruit_CircuitPython_CursorControl)      |    3|
-|  49|[adafruit-circuitpython-mlx90393](https://github.com/adafruit/Adafruit_CircuitPython_MLX90393)                |    3|
-|  50|[afs2-datasource](https://github.com/stacy0416/afs2-datasource)                                               |    3|
-|  51|[afs2-model](https://github.com/benchuang11046/afs2-model)                                                    |    3|
-|  52|[aa-forum](https://github.com/ppfeufer/aa-forum)                                                              |    2|
-|  53|[actipy](https://github.com/activityMonitoring/actipy)                                                        |    2|
-|  54|[adafruit-circuitpython-focaltouch](https://github.com/adafruit/Adafruit_CircuitPython_Focaltouch)            |    2|
-|  55|[adafruit-circuitpython-fxas21002c](https://github.com/adafruit/Adafruit_CircuitPython_FXAS21002C)            |    2|
-|  56|[adafruit-circuitpython-fxos8700](https://github.com/adafruit/Adafruit_CircuitPython_FXOS8700)                |    2|
-|  57|[adafruit-circuitpython-l3gd20](https://github.com/adafruit/Adafruit_CircuitPython_L3GD20)                    |    2|
-|  58|[adafruit-circuitpython-lsm9ds0](https://github.com/adafruit/Adafruit_CircuitPython_LSM9DS0)                  |    2|
-|  59|[adafruit-circuitpython-ra8875](https://github.com/adafruit/Adafruit_CircuitPython_RA8875)                    |    2|
-|  60|[adorn](https://github.com/pyadorn/adorn)                                                                     |    2|
-|  61|[agave](https://github.com/cuenca-mx/agave)                                                                   |    2|
-|  62|[2ppy](https://github.com/tuProlog/2ppy)                                                                      |    1|
-|  63|[aas-core-codegen](https://github.com/aas-core-works/aas-core-codegen)                                        |    1|
-|  64|[abstract-http-client](https://github.com/QualiSystemsLab/abstract-http-client)                               |    1|
-|  65|[adafruit-circuitpython-HTU21D](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D)                    |    1|
-|  66|[adafruit-circuitpython-si5351](https://github.com/adafruit/Adafruit_CircuitPython_SI5351)                    |    1|
-|  67|[Adax-local](https://github.com/Danielhiversen/pyAdaxLocal)                                                   |    1|
-|  68|[ads-evt](https://github.com/limjcst/ads-evt)                                                                 |    1|
-|  69|[aeroutils](https://github.com/MattCJones/aeroutils)                                                          |    1|
-|  70|[afasi](https://github.com/sthagen/afasi)                                                                     |    1|
-|  71|[aiohttp-openmetrics](https://github.com/jelmer/aiohttp-openmetrics/)                                         |    1|
-|  72|[aa-esi-status](https://github.com/ppfeufer/aa-esi-status/)                                                   |    0|
-|  73|[aa-fleetpings](https://github.com/ppfeufer/aa-fleetpings)                                                    |    0|
-|  74|[aarc-g002-entitlement](https://github.com/kit-scc/aarc-g002-entitlement)                                     |    0|
-|  75|[aa-srp](https://github.com/ppfeufer/aa-srp)                                                                  |    0|
-|  76|[acdh-handle-pyutils](https://github.com/acdh-oeaw/acdh-handle-pyutils)                                       |    0|
-|  77|[adaendra-immutable-dict](https://github.com/Adaendra/immutable_dict)                                         |    0|
-|  78|[adaendra-python-config-loader](https://github.com/Adaendra/python-config-loader)                             |    0|
-|  79|[adafruit-circuitpython-mma8451](https://github.com/adafruit/Adafruit_CircuitPython_MMA8451)                  |    0|
-|  80|[adbdgl-adapter](https://github.com/arangoml/dgl-adapter)                                                     |    0|
-|  81|[Adsorber](https://github.com/GardenGroupUO/Adsorber/archive/v1.10.tar.gz)                                    |    0|
-|  82|[advanced-sqlalchemy-manager](https://github.com/Flowelcat/advanced-sqlalchemy-manager)                       |    0|
-|  83|[afterrealism](https://github.com/afterrealism/afterrealism)                                                  |    0|
-|  84|[agal](https://github.com/gzttech/agal)                                                                       |    0|
-|  85|[agora-python-token-builder](https://github.com/AgoraIO-Community/python-token-builder)                       |    0|
-|  86|[agora-python-token-builder-test12](https://github.com/AgoraIO-Community/python-token-builder)                |    0|
-|  87|[agora-token-builder](https://github.com/AgoraIO-Community/python-token-builder)                              |    0|
-|  88|[ahbicht](https://github.com/Hochfrequenz/ahbicht)                                                            |    0|
-|  89|[ailever](https://3044d22ab9179f52ecb34567f62c8b9819f0333d@github.com/ailever/ailever)                        |    0|
-|  90|[aiocloudpayments](https://github.com/drforse/aiocloudpayments)                                               |    0|
-|  91|[aiogram-utils](https://github.com/LDmitriy7/aiogram_utils)                                                   |    0|
-|  92|[aiohttp-catcher](https://github.com/yuvalherziger/aiohttp-catcher)                                           |    0|
-|  93|[aiohwenergy](https://github.com/DCSBL/aiohwenergy)                                                           |    0|
-|  94|[0](None)                                                                                                     |   -1|
-|  95|[0-._.-._.-._.-._.-._.-._.-0](None)                                                                           |   -1|
-|  96|[00000a](None)                                                                                                |   -1|
-|  97|[0.0.1](https://github.com/scotthuang1989/image2tfrecords)                                                    |   -1|
-|  98|[00print_lol](None)                                                                                           |   -1|
-|  99|[00SMALINUX](None)                                                                                            |   -1|
+|rank|                                      package                                       |stars |new stars_last 24 hours|
+|---:|------------------------------------------------------------------------------------|-----:|----------------------:|
+|   0|[tensorflow](https://github.com/tensorflow/tensorflow)                              |161624|                 161624|
+|   6|[tf-models-nightly](https://github.com/tensorflow/models)                           | 72383|                  72383|
+|   8|[thefuck](https://github.com/nvbn/thefuck)                                          | 65780|                  65780|
+|   9|[transformers](https://github.com/huggingface/transformers)                         | 56393|                  56393|
+|  10|[keras](https://github.com/keras-team/keras)                                        | 53598|                  53598|
+|  12|[torch](https://github.com/pytorch/pytorch)                                         | 53095|                  53095|
+|  13|[fastapi](https://github.com/tiangolo/fastapi)                                      | 40192|                  40192|
+|  14|[manimgl](https://github.com/3b1b/manim)                                            | 40032|                  40032|
+|  15|[localstack-ext](https://github.com/localstack/localstack)                          | 37960|                  37960|
+|  16|[rich](https://github.com/willmcgugan/rich)                                         | 31991|                  31991|
+|  17|[zuel-test](https://github.com/fxsjy/jieba)                                         | 27663|                  27663|
+|  18|[hanlp](https://github.com/hankcs/HanLP)                                            | 24762|                  24762|
+|  20|[black](https://github.com/psf/black)                                               | 24153|                  24153|
+|  21|[optax-shampoo](https://github.com/google-research/google-research)                 | 21304|                  21304|
+|  22|[mxnet](https://github.com/apache/incubator-mxnet)                                  | 19805|                  19805|
+|  28|[ray](https://github.com/ray-project/ray)                                           | 18713|                  18713|
+|  30|[PPOCRLabel](https://github.com/PaddlePaddle/PaddleOCR)                             | 18448|                  18448|
+|  31|[taichi](https://github.com/taichi-dev/taichi)                                      | 17746|                  17746|
+|  32|[netron](https://github.com/lutzroeder/netron)                                      | 17324|                  17324|
+|  33|[pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning)          | 16775|                  16775|
+|  34|[dotnetcore2](https://github.com/dotnet/core)                                       | 16750|                  16750|
+|  35|[bokeh](https://github.com/bokeh/bokeh)                                             | 15850|                  15850|
+|  36|[hpihopmoxtgnfqbnxm](https://github.com/TencentARC/GFPGAN)                          | 15831|                  15831|
+|  38|[jax](https://github.com/google/jax)                                                | 15810|                  15810|
+|  40|[sanic](https://github.com/sanic-org/sanic)                                         | 15713|                  15713|
+|  41|[mediapipe](https://github.com/google/mediapipe)                                    | 15619|                  15619|
+|  42|[yt-dlp](https://github.com/yt-dlp/yt-dlp)                                          | 15617|                  15617|
+|  43|[freqtrade](https://github.com/freqtrade/freqtrade)                                 | 15189|                  15189|
+|  44|[ncnn](https://github.com/Tencent/ncnn)                                             | 13504|                  13504|
+|  45|[torch-geometric](https://github.com/pyg-team/pytorch_geometric)                    | 13495|                  13495|
+|  46|[Faker](https://github.com/joke2k/faker)                                            | 13437|                  13437|
+|  47|[pydevd-pycharm](https://github.com/JetBrains/intellij-community)                   | 13139|                  13139|
+|  48|[docarray](https://github.com/jina-ai/jina)                                         | 13051|                  13051|
+|  52|[aioloop-proxy](https://github.com/aio-libs/aiohttp)                                | 12021|                  12021|
+|  53|[pysarplus](https://github.com/microsoft/recommenders)                              | 11942|                  11942|
+|  54|[datasets](https://github.com/huggingface/datasets)                                 | 11732|                  11732|
+|  55|[pulumi](https://github.com/pulumi/pulumi)                                          | 10999|                  10999|
+|  56|[allennlp](https://github.com/allenai/allennlp)                                     | 10736|                  10736|
+|  57|[torchvision](https://github.com/pytorch/vision)                                    | 10642|                  10642|
+|  58|[pybind11-global](https://github.com/pybind/pybind11)                               | 10242|                  10242|
+|  59|[hpihopmoxtgnfqbnxm2](https://github.com/remix-run/remix)                           | 10200|                  10200|
+|  60|[redis](https://github.com/redis/redis-py)                                          |  9908|                   9908|
+|  61|[redis2](https://github.com/andymccurdy/redis-py)                                   |  9908|                   9908|
+|  63|[dopamine-rl](https://github.com/google/dopamine)                                   |  9703|                   9703|
+|  64|[dask](https://github.com/dask/dask)                                                |  9353|                   9353|
+|  65|[pyxel](https://github.com/kitao/pyxel)                                             |  9224|                   9224|
+|  66|[dvc](https://github.com/iterative/dvc)                                             |  9071|                   9071|
+|  67|[fprime-gds](https://github.com/nasa/fprime)                                        |  8684|                   8684|
+|  69|[pydantic](https://github.com/samuelcolvin/pydantic)                                |  8636|                   8636|
+|  71|[chalice](https://github.com/aws/chalice)                                           |  8555|                   8555|
+|  72|[realesrgan](https://github.com/xinntao/Real-ESRGAN)                                |  8415|                   8415|
+|  73|[bpytop](https://github.com/aristocratos/bpytop)                                    |  8129|                   8129|
+|  74|[rq](https://github.com/nvie/rq)                                                    |  8082|                   8082|
+|  75|[prefect](https://github.com/PrefectHQ/prefect)                                     |  8051|                   8051|
+|  76|[monocdk](https://github.com/aws/aws-cdk)                                           |  8014|                   8014|
+| 331|[vit-pytorch](https://github.com/lucidrains/vit-pytorch)                            |  7937|                   7937|
+| 332|[pyqlib](https://github.com/microsoft/qlib)                                         |  7758|                   7758|
+| 333|[prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)           |  7473|                   7473|
+| 334|[pyodide-build](https://github.com/pyodide/pyodide)                                 |  7198|                   7198|
+| 335|[spotdl](https://github.com/spotDL/spotify-downloader)                              |  7113|                   7113|
+| 336|[z3-solver](https://github.com/Z3Prover/z3)                                         |  7016|                   7016|
+| 337|[django-allauth](https://github.com/pennersr/django-allauth)                        |  6927|                   6927|
+| 338|[textual](https://github.com/willmcgugan/textual)                                   |  6824|                   6824|
+| 339|[vaex](https://github.com/vaexio/vaex)                                              |  6818|                   6818|
+| 340|[vaex-core](https://github.com/maartenbreddels/vaex)                                |  6818|                   6818|
+| 346|[dearpygui](https://github.com/hoffstadt/DearPyGui)                                 |  6789|                   6789|
+| 347|[modin](https://github.com/modin-project/modin)                                     |  6669|                   6669|
+| 348|[yowsup](https://github.com/tgalal/yowsup)                                          |  6616|                   6616|
+| 349|[sqlmodel](https://github.com/tiangolo/sqlmodel)                                    |  6525|                   6525|
+| 350|[mvt](https://github.com/mvt-project/mvt)                                           |  6488|                   6488|
+| 351|[pytorchyolo](https://github.com/eriklindernoren/PyTorch-YOLOv3)                    |  6434|                   6434|
+| 352|[pymc](https://github.com/pymc-devs/pymc)                                           |  6251|                   6251|
+| 353|[yfinance](https://github.com/ranaroussi/yfinance)                                  |  6236|                   6236|
+| 354|[quantaxis](https://github.com/quantaxis/quantaxis)                                 |  6191|                   6191|
+| 355|[bypy](https://github.com/houtianze/bypy)                                           |  6177|                   6177|
+| 356|[tsfresh](https://github.com/blue-yonder/tsfresh)                                   |  6105|                   6105|
+| 357|[onnxruntime](https://github.com/microsoft/onnxruntime)                             |  6010|                   6010|
+| 360|[great-expectations](https://github.com/great-expectations/great_expectations)      |  5876|                   5876|
+| 361|[TeleDoge](https://github.com/LonamiWebs/Telethon)                                  |  5874|                   5874|
+| 362|[labml-nn](https://github.com/labmlai/annotated_deep_learning_paper_implementations)|  5838|                   5838|
+| 363|[airtest](https://github.com/AirtestProject/Airtest)                                |  5782|                   5782|
+| 365|[sexyshell](https://github.com/b-ryan/powerline-shell)                              |  5746|                   5746|
+| 366|[tb-nightly](https://github.com/tensorflow/tensorboard)                             |  5731|                   5731|
+| 367|[pyre-check](https://github.com/facebook/pyre-check)                                |  5728|                   5728|
+| 369|[ocrmypdf](https://github.com/jbarlow83/OCRmyPDF)                                   |  5721|                   5721|
+| 370|[semgrep](https://github.com/returntocorp/semgrep)                                  |  5721|                   5721|
+| 371|[tflite-model-maker-nightly](https://github.com/tensorflow/examples)                |  5705|                   5705|
+| 372|[gspread](https://github.com/burnash/gspread)                                       |  5701|                   5701|
+| 373|[angr](https://github.com/angr/angr)                                                |  5578|                   5578|
+| 374|[deeppavlov](https://github.com/deepmipt/DeepPavlov)                                |  5538|                   5538|
+| 375|[pytorch3d](https://github.com/facebookresearch/pytorch3d)                          |  5514|                   5514|
+| 376|[crackmapexec](https://github.com/byt3bl33d3r/CrackMapExec)                         |  5480|                   5480|
+| 377|[moto](https://github.com/spulec/moto)                                              |  5468|                   5468|
+| 379|[google-api-python-client](https://github.com/googleapis/google-api-python-client)  |  5309|                   5309|
+| 380|[ppgan](https://github.com/PaddlePaddle/PaddleGAN)                                  |  5223|                   5223|
+| 381|[pyod](https://github.com/yzhao062/pyod)                                            |  5142|                   5142|
+| 382|[airbyte-cdk](https://github.com/airbytehq/airbyte)                                 |  5129|                   5129|
+| 383|[tokenizers](https://github.com/huggingface/tokenizers)                             |  5129|                   5129|
+| 384|[jupytext](https://github.com/mwouts/jupytext)                                      |  5075|                   5075|
+| 385|[telebot-kor0p](https://github.com/eternnoir/pyTelegramBotAPI)                      |  5034|                   5034|
