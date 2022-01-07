@@ -1,4 +1,4 @@
-# top stared packages first 5000
+# trending packages
 |rank|                                 package                                  |stars |new stars_last 24 hours|
 |---:|--------------------------------------------------------------------------|-----:|----------------------:|
 |   0|[gfpgan](https://github.com/TencentARC/GFPGAN)                            | 15830|                    169|
